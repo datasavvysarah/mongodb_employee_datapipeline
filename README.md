@@ -48,7 +48,7 @@ This repository contains a complete employee database management system that:
 
 ## Technologies Used
 
-- **Python 3.8+**
+- **Python 3.13+**
 - **MongoDB 4.4+**
 - **PyMongo** - MongoDB driver for Python
 - **Pandas** - Data analysis and manipulation
@@ -67,7 +67,7 @@ This repository contains a complete employee database management system that:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/employee-database-mongodb.git
+   git clone https://github.com/datasavvysarah/mongodb_employee_datapipeline.git
    cd employee-database-mongodb
    ```
 
