@@ -373,3 +373,9 @@ mongoexport --db company_db --collection employees --out employees.json --pretty
 ⭐ **Star this repository** if you find it helpful!
 
 **Built with ❤️ using Python and MongoDB**
+
+Student: Sarah Uko
+
+Course: AltSchool Data Engineering Baraka 2025
+
+Date: 14th August, 2025.
